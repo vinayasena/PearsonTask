@@ -1,5 +1,5 @@
 # Pearson Task
-# description: This application fetches the movie results from APi and renders on the client.
+# Description: This application fetches the movie results from APi and renders on the client.
 # This has the following features. 
 1. search for movies
 2. View detailed info of the movie.
